@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(9, 246, 9);
+}
+
+div{
+    background-color: blue;
+}
+
+.PrimerTitulo{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.SegundoTitulo{
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    color:orange;
+    font-family: cursive;
+    text-align: left;
+}

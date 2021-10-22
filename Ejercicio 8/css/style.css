@@ -1,0 +1,16 @@
+body{
+    background-color: orchid;
+}
+
+
+a{
+    color: #FFF;
+  }
+  
+  a:hover{
+    color: red;
+  }
+  
+  a:active{
+    color: #CCC;
+  }
